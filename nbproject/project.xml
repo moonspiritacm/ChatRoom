@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.java.j2seproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+            <name>ChatRoom</name>
+            <source-roots>
+                <root id="src.dir"/>
+            </source-roots>
+            <test-roots>
+                <root id="test.src.dir"/>
+            </test-roots>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>quit停止运行状态</word>
+            <word>下行线程</word>
+            <word>下行线程接收服务器数据</word>
+            <word>不重复</word>
+            <word>中断socket连接</word>
+            <word>修改stat为false</word>
+            <word>关闭socket上下行数据流</word>
+            <word>分配线程</word>
+            <word>判断字符串是否全为数字</word>
+            <word>判断用户名是否重复</word>
+            <word>发送给服务器</word>
+            <word>变量初始化</word>
+            <word>向客户端发送消息</word>
+            <word>向客户端打印历史消息</word>
+            <word>启动客户端</word>
+            <word>处理连接请求</word>
+            <word>存在同步处理</word>
+            <word>建立socket连接</word>
+            <word>打印历史消息</word>
+            <word>排除的用户名</word>
+            <word>接收服务器下行数据</word>
+            <word>接收来自服务器的消息并输出到屏幕</word>
+            <word>显示在屏幕上</word>
+            <word>服务器监听端口</word>
+            <word>服务器端主类</word>
+            <word>用户类</word>
+            <word>读取本地键盘输入</word>
+            <word>运行客户端</word>
+            <word>重复</word>
+            <word>错误指令或广播消息</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>
